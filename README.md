@@ -1,0 +1,2 @@
+# VBscript
+script com VBscript
